@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/iceCreamV2/static/css/main.25206a5a.css",
-    "main.js": "/iceCreamV2/static/js/main.d607c41f.js",
+    "main.css": "/iceCreamV2/static/css/main.d584d129.css",
+    "main.js": "/iceCreamV2/static/js/main.225cb7e9.js",
     "static/js/787.660d5990.chunk.js": "/iceCreamV2/static/js/787.660d5990.chunk.js",
     "static/media/homeIceCream.jpg": "/iceCreamV2/static/media/homeIceCream.96af10289d24e633d3af.jpg",
     "index.html": "/iceCreamV2/index.html",
-    "main.25206a5a.css.map": "/iceCreamV2/static/css/main.25206a5a.css.map",
-    "main.d607c41f.js.map": "/iceCreamV2/static/js/main.d607c41f.js.map",
+    "main.d584d129.css.map": "/iceCreamV2/static/css/main.d584d129.css.map",
+    "main.225cb7e9.js.map": "/iceCreamV2/static/js/main.225cb7e9.js.map",
     "787.660d5990.chunk.js.map": "/iceCreamV2/static/js/787.660d5990.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25206a5a.css",
-    "static/js/main.d607c41f.js"
+    "static/css/main.d584d129.css",
+    "static/js/main.225cb7e9.js"
   ]
 }
