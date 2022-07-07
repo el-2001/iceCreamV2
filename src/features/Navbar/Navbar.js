@@ -8,8 +8,8 @@ export const Navbar = ()=>{
         }
     },[])
     return (<nav className="top yellow10 right-align ">
-            <Link to="/"><a className="chip round"><div className="progress right"></div><i>home</i></a></Link>
-            <Link to="/OrderNow"><a className="chip round"><div className="progress right"></div><span>Order</span></a></Link>
+            <Link to="/iceCreamV2"><a className="chip round"><div className="progress right"></div><i>home</i></a></Link>
+            <Link to="/OrderNow"><a className="chip round"><div className="progress right"></div><span>Order Now</span></a></Link>
             <Link to="/ReviewOrder"><a className="chip round"><div className="progress right"></div><span className="material-icons">
 shopping_cart
 </span></a></Link>

@@ -1,6 +1,7 @@
 
 import './Home.css';
 import homeIceCream from '../../Pictures/homeIceCream.jpg';
+
 export const Home = ()=>{
     return(<div className="Home top-space">
         <article className="no-padding">
