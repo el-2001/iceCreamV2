@@ -1,0 +1,7 @@
+#order{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+#order::-webkit-scrollbar{
+ display:none;
+}

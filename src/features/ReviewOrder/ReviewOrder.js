@@ -13,10 +13,10 @@ export const ReviewOrder = ()=>{
     return(<div className="review-order top-space">
             <h2 className="center-align">Review Order</h2>
             <button onClick={openModal}>Confirm Order</button>
-            <div id="order" class="modal">
-  <h5 className="center-align">Order Confirmed</h5>
-  <div>Thank you!</div>
-  <nav class="center-align">
+            <div id="order" className="modal medium top">
+  <h2 className="center-align middle">Order Confirmed</h2>
+  <h4 className="center-align middle">Thank you!</h4>
+  <nav className="center-align middle">
     <button onClick={closeModal}>Close</button>
   </nav>
 </div>
